@@ -1,0 +1,154 @@
+{
+  "location": "Kanjikode, Kerala, IN",
+  "date": "2025-08-29",
+  "hourly": [
+    {
+      "hour": 0,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 1,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 2,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 3,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 4,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 5,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 6,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 7,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 8,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 9,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 10,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 11,
+      "temp_c": 26.5,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 12,
+      "temp_c": 26.5,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 13,
+      "temp_c": 26.5,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 14,
+      "temp_c": 26.5,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 15,
+      "temp_c": 26.5,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 16,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 17,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 18,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 19,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 20,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 21,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 22,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    },
+    {
+      "hour": 23,
+      "temp_c": 25.8,
+      "humidity": 0.7,
+      "rain_mm": 0.0
+    }
+  ],
+  "forecast": {
+    "rain_probability": 0.3,
+    "evapotranspiration_mm": 4.1
+  }
+}
