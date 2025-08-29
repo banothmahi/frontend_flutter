@@ -1,0 +1,20 @@
+{
+  "zones": [
+    {
+      "id": "zone-1",
+      "name": "Paddy Plot A",
+      "moisture": 0.24
+    },
+    {
+      "id": "zone-2",
+      "name": "Vegetable Bed B",
+      "moisture": 0.18
+    },
+    {
+      "id": "zone-3",
+      "name": "Banana Row C",
+      "moisture": 0.35
+    }
+  ],
+  "sensor_units": "volumetric_water_content_fraction"
+}
