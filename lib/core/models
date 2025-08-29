@@ -1,0 +1,19 @@
+class Zone {
+  final String id;
+  final String name;
+  final double moisture; // 0..1
+
+  Zone({required this.id, required this.name, required this.moisture});
+
+  factory Zone.fromJson(Map<String, dynamic> j) =>
+      Zone(id: j['id'], name: j['name'], moisture: (j['moisture'] as num).toDouble());
+}
+
+class WeatherForecast {
+  final String location;
+  final String date; // ISO
+  final double rainProbability;
+  final double etMm; // evapotranspiration
+
+  WeatherForecast({required this.location, required this.date, required this.rainProbability, required this.etMm});
+}
